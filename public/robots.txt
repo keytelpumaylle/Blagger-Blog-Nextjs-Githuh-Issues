@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://keytelpumaylle.vercel.app
+
+# Sitemaps
+Sitemap: https://keytelpumaylle.vercel.app/sitemap.xml
